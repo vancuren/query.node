@@ -1,6 +1,6 @@
 {
   "name": "query.node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Javascript library for working with Arrays and Objects. Based off Laravel collections.",
   "main": "index.js",
   "scripts": {
